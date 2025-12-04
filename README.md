@@ -43,7 +43,7 @@ I am a passionate DevOps enthusiast focused on automating infrastructure, stream
 ### 🏆 Achievements & Certifications
 
 * 🏅 **AWS Foundation Certificate:** Verified cloud knowledge via official AWS certification.
-* 🎓 **DevOps Training:** Completed extensive DevOps training (Docker, K8s, Terraform, Jenkins) at *CloudBlitz Indore*.
+* 🎓 **DevOps Training Certification:** Completed extensive DevOps training (Docker, K8s, Terraform, Jenkins) at *CloudBlitz Indore*.
 * 🌟 **Core Member - Women in Tech:** Selected as a Core Member at **GDSC-CDGI**, leading events and outreach initiatives.
 
 ---
