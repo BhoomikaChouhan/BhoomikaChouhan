@@ -6,7 +6,7 @@ I am a passionate DevOps enthusiast focused on automating infrastructure, stream
 
 ---
 
-### 🛠️ Key Skills & Tech Stack
+### 🌟 Key Skills & Tech Stack
 
 **☁️ Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -42,7 +42,7 @@ I am a passionate DevOps enthusiast focused on automating infrastructure, stream
 
 ### 🏆 Achievements & Certifications
 
-* 🏅 **AWS Foundation Certificate:** Verified cloud knowledge via official AWS certification.
+* ☁️ **AWS Foundation Certificate:** Verified cloud knowledge via official AWS certification.
 * 🎓 **DevOps Training Certification:** Completed extensive DevOps training (Docker, K8s, Terraform, Jenkins) at *CloudBlitz Indore*.
 * 🌟 **Core Member - Women in Tech:** Selected as a Core Member at **GDSC-CDGI**, leading events and outreach initiatives.
 
