@@ -52,9 +52,9 @@ I am a passionate DevOps enthusiast focused on automating infrastructure, stream
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-|**[AWS Multi-Tier Web App](https://github.com/BhoomikaChouhan/aws-multitierapp-java)** | `AWS EC2`, `ELB`, `Auto Scaling`, `Bash` | Automated deployment of Java stack using User Data scripts with Load Balancing & Auto Scaling. |
-| **[AWS Cloud Native CI Pipeline](https://github.com/BhoomikaChouhan/ci-pipeline-aws)** | `AWS CodeBuild`, `CodePipeline`, `SonarCloud` | Serverless CI pipeline for Java apps with zero operational overhead. |
-| **[Jenkins CI/CD Pipeline](https://github.com/BhoomikaChouhan/ci-pipeline-jenkins)** | `Jenkins`, `Nexus`, `SonarQube`, `EC2` | End-to-end automation pipeline with Quality Gates and Artifact management. |
+| **[Jenkins CI/CD Pipeline](https://github.com/BhoomikaChouhan/ci-pipeline-jenkins)** | `Jenkins`, `Nexus`, `SonarQube`, `EC2`, `Maven`, `Checkstyle` | End-to-end automation pipeline with Quality Gates and Artifact management. |
+|**[AWS Multi-Tier Web App](https://github.com/BhoomikaChouhan/aws-multitierapp-java)** | `AWS EC2`, `ELB`, `Auto Scaling`, `Bash`, `Route 53`, `Aws ACM`, `Rabbitmq`, `Memcache`, `Tomcat`, `Nginx` | Automated deployment of Java stack using User Data scripts with Load Balancing & Auto Scaling. |
+| **[AWS Cloud Native CI Pipeline](https://github.com/BhoomikaChouhan/ci-pipeline-aws)** | `AWS CodeBuild`, `AWS CodePipeline`, `SonarCloud`, `Aws CodeArtifact`, `S3` | Serverless CI pipeline for Java apps with zero operational overhead. |
 | **[Kubernetes Multi-Tier Deployment](https://github.com/BhoomikaChouhan/multitierapp-kubernetes)** | `K8s`, `Kops`, `AWS EBS`, `Docker` | Production-grade deployment of VProfile app with stateful volume handling. |
 | **[Containerized Java App](https://github.com/BhoomikaChouhan/containerized-java-app)** | `Docker`, `Docker Compose`, `Nginx` | Custom Dockerfiles for microservices architecture migration. |
 
