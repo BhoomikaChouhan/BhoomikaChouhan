@@ -52,7 +52,7 @@ I am a passionate DevOps enthusiast focused on automating infrastructure, stream
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[Jenkins CI/CD Pipeline](https://github.com/BhoomikaChouhan/ci-pipeline-jenkins)** | `Jenkins`, `Nexus`, `SonarQube`, `EC2`, `Maven`, `Checkstyle` | End-to-end automation pipeline with Quality Gates and Artifact management. |
+| **[Jenkins CI Pipeline](https://github.com/BhoomikaChouhan/ci-pipeline-jenkins)** | `Jenkins`, `Nexus`, `SonarQube`, `EC2`, `Maven`, `Checkstyle` | End-to-end automation pipeline with Quality Gates and Artifact management. |
 |**[AWS Multi-Tier Web App Deployment](https://github.com/BhoomikaChouhan/aws-multitierapp-java)** | `AWS EC2`, `ELB`, `Auto Scaling`, `Bash`, `Route 53`, `Aws ACM`, `Rabbitmq`, `Memcache`, `Tomcat`, `Nginx` | Automated deployment of Java stack using User Data scripts with Load Balancing & Auto Scaling. |
 | **[AWS Cloud Native CI Pipeline](https://github.com/BhoomikaChouhan/ci-pipeline-aws)** | `AWS CodeBuild`, `AWS CodePipeline`, `SonarCloud`, `Aws CodeArtifact`, `S3` | Serverless CI pipeline for Java apps with zero operational overhead. |
 | **[Kubernetes Multi-Tier Deployment](https://github.com/BhoomikaChouhan/multitierapp-kubernetes)** | `K8s`, `Kops`, `AWS EBS`, `Docker` | Production-grade deployment of VProfile app with stateful volume handling. |
